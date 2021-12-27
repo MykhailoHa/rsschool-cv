@@ -9,9 +9,10 @@ Location:   Ukraine, Ternopil
 * Email:     Mykhailo.Harbuz@gmail.com
 ### Skills
 * HTML
-* CSS/SASS
+* CSS
 * JavaScript (Basic)
 * Git
+* Figma
 
 ### Education
 * RS School
