@@ -7,7 +7,7 @@ Location:   Ukraine, Ternopil
 * GitHub:    https://github.com/MykhailoHa
 
 * Email:     Mykhailo.Harbuz@gmail.com
-### Skils
+### Skills
 * HTML
 * CSS/SASS
 * JavaScript (Basic)
