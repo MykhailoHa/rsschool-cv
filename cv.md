@@ -1,28 +1,28 @@
-Mykhailo Harbuz
+# Mykhailo Harbuz
 
-Frontend Developer
+## Frontend Developer
 
-Contacts 
+### Contacts 
 E-mail : mykhailo.harbuz@gmail.com  
 Telegram : @n1ceOne7
 Discord : Mykhailo(@MykhailoHa)
 
-Skills and Proficiency:
+### Skills and Proficiency:
 
 HTML5, CSS3 ,JS 
 Figma
 Git, GitHub
 
-Code example:
+### Code example:
 
 function multiply (a, b) {
 return a * b
 }
 
-Experience: 
+### Experience: 
 Freelance as a webmaster.
 
-Languages:
+### Languages:
 English - Upper-intermediate
 Ukrainian - Native
 Polish - Basic
